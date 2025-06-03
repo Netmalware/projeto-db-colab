@@ -1,2 +1,5 @@
-# projeto-db-colab
-Exercício de criação e manipulação de um BD em SQLite usando Google Colab.
+## 🧩 Modelo Conceitual
+
+Abaixo está o diagrama ER utilizado na modelagem do banco de dados:
+
+![Modelo Conceitual](docs/modelo-conceitual.png)
